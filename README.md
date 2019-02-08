@@ -1,6 +1,6 @@
 # Portfolio
 
-Thanks for visiting my portfolio :+1
+Thanks for visiting my portfolio :simple_smile:
 
 
 THe site was built using  basic HTML and CSS.Zurb foundation templates were used to structure CSS.
