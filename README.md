@@ -3,7 +3,7 @@
 Thanks for visiting my portfolio 
 
 
-THe site was built using  basic HTML and CSS.Zurb foundation templates were used to structure CSS.
+THe site was built using  basic HTML and CSS.Zurb Foundation templates were used to structure CSS.
 
 
 
@@ -20,8 +20,9 @@ The site has the following sections:
 
 
 
-View my profile @[LinkedIn](https://www.linkedin.com/in/calvin-infi-116078178/)
+View my profile:
+ @[LinkedIn](https://www.linkedin.com/in/calvin-infi-116078178/)
 
 @[GitHub](https://github.com/Infinical)
 
-Visit the site @(https://infinical.github.io/)
+Visit the site @[Portfolio](https://infinical.github.io/)
