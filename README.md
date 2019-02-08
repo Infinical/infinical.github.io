@@ -10,13 +10,13 @@ THe site was built using  basic HTML and CSS.Zurb Foundation templates were used
 
 The site has the following sections:
 
-*The Introduction
+**The Introduction**
 
-*Skills 
+**Skills**
 
-*Years of Experience
+**Years of Experience**
 
-*Contact Form
+**Contact Form**
 
 
 
