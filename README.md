@@ -7,9 +7,13 @@ THe site was built using  basic HTML and CSS.Zurb foundation templates were used
 
 
 The site has the following sections:
+
 *The Introduction
+
 *Skills 
+
 *Years of Experience
+
 *Contact Form
 
 
