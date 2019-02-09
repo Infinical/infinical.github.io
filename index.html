@@ -8,17 +8,27 @@
     <link rel="stylesheet" href="css/app.css">
   </head>
   <body>
+    <header class="navbar">
+      <ul class="menu expanded" data-magellan>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </header>
     <div class="grid-container full">
       <div class="grid-x ">
         <div class="large-12 cell ">
+          <section id="home">
           <div class="header">
           <h1>Calvin Mokua</h1>
-          <h2>View my profile @<a href="https://www.linkedin.com/in/calvin-infi-116078178/" target="_blank">LinkedIn</a></h2>
+          <h2>View my profile @<a href="https://www.linkedin.com/in/calvin-infi-116078178/" target="_blank" class="link">LinkedIn</a></h2>
+          </section>
           </div>
         </div>
         </div>
       </div>
       <div class="grid-container fluid">
+        <section id="about">
       <div class="grid-x ">
         <div class="cell medium-6">
           <div class="list">
@@ -68,6 +78,7 @@
 </table>
 </div>
 </div>
+</section>
 </div>
 <script>
 var button = document.getElementById("table1");
@@ -97,6 +108,7 @@ button.addEventListener("click",toggle, false);
         </div>
       </div>
           <footer class="form">
+            <section id="contact">
       <div class="grid-x grid-padding-x">
         <div class="large-8 medium-8 cell">
         <hr />
@@ -127,6 +139,7 @@ button.addEventListener("click",toggle, false);
           <button class=" b1">
           Contact Me
         </button><br/>
+        </section>
         </footer>
         <p style="text-align: center; background-color: #1D3557;color: white;text-shadow: silver 1px; font-size: 25px; ">&copy Calvo 2018</p>
 
